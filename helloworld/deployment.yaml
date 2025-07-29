@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: javaapp
-        image: iamtesting:v1
+        image: himamshu5904/ciproject2:2025-07-21_2002
         ports:
         - containerPort: 8080
